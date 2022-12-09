@@ -24,7 +24,7 @@ using namespace std;
         cout << "Length of the resultant vector = " << result_vec_length << endl;
         cout << "Direction of the resultant vector (deg) = " << result_vec_direction << endl;
         cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%" << endl;
-        
+
     }
 
 
