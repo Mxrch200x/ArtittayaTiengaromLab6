@@ -19,7 +19,7 @@ using namespace std;
     double pythagoras(double xcomp, double ycomp){
         return sqrt((pow(xcomp,2)) + (pow(ycomp,2))) ;
     }
-    double showResult(double result_vec_length, double result_vec_direction){
+    void showResult(double result_vec_length, double result_vec_direction){
         cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%" << endl;
         cout << "Length of the resultant vector = " << result_vec_length << endl;
         cout << "Direction of the resultant vector (deg) = " << result_vec_direction << endl;
